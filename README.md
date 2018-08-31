@@ -20,7 +20,7 @@ Why was this extension developed?
 * **No security risks** by requiring access only relevant trading websites that do not have your personal data.
   * Almost all other extensions that allow you to change the CSS and Javascript of your websites, require access to the data on all your websites. This opens security risks.
 * **Open Source** - everyone can check the code, install locally the extension, contribute and comment
-* **For traders and investors** - made only for the most often used trading websites used by traders and investors.
+* **For traders and investors** - made only for the most often used websites used by traders and investors.
 
 ## Contribute
 
@@ -45,8 +45,5 @@ If you want to simplify the UI of a new website, please:
 
 ## TODOs
 
-* [ ] Create screenshots before and after
-* [ ] Create icon for the extension
-* [ ] Create main image for the extension
 * [ ] Publish to chrome extensions
 * [ ] Create similar Firefox extension
