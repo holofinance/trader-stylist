@@ -1,7 +1,7 @@
 #header-banner-wrapper, div[id^="div-gpt-ad"],
 #leaderboard,
 .global-stats-list>li:first-child, .global-stats-list>li:nth-child(2),
-footer {
+.vertical-spacer-2x, footer {
     display: none !important;
 }
 
@@ -13,9 +13,23 @@ footer {
     padding: 0 !important;
 }
 
+.header-1x {
+    margin: 10px 0 !important;
+}
+
+.main-section {
+    padding-left: 0px !important;
+    margin-bottom: 0px !important;
+}
+
 .main-section .col-lg-10 {
     padding-top: 0px !important;
 }
+
+.main-section .col-lg-2 {
+    padding-top: 0px !important;
+}
+
 
 #currencies_wrapper table td {
     padding: 0px !important;
