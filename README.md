@@ -10,6 +10,9 @@ Currently supported websites:
 
 ![Investing.com Before and After](assets/investingcom-before-after.png)
 
+![Coinmarketcap.com Before and After](assets/coinmarketcap-before-after.png)
+
+
 ## Why
 
 Why was this extension developed?
