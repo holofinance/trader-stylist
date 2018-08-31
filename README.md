@@ -3,8 +3,8 @@
 Simplify your trading and investing websites.
 
 Currently supported websites:
-* investing.com/economic-calendar
-* coinmarketcap.com
+* [investing.com/economic-calendar](https://investing.com/economic-calendar/)
+* [coinmarketcap.com](https://coinmarketcap.com)
 
 ## Examples
 
