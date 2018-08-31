@@ -1,0 +1,15 @@
+#sideNotificationZone, .breakingNews, .earAdv, header, .midHeader,
+.printIconWrap, .headBtnWrapper, .printedTopHeader,
+div[id^="div-gpt-ad"], #ecoCalTabsMenu, .js-notification-bar,
+#rightColumn, #footerWrapper,
+.chatOuterWrapper, #theDisclaimer, .pageBottomButton{
+    display: none !important;
+}
+
+#leftColumn{
+    margin-top: -100px !important;
+}
+
+#economicCalendarForm {
+    margin-top: -60px !important;
+}

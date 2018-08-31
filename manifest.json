@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "Trader Stylist",
+  "version": "0.1.0",
+  "description": "Cleans the UI of famous trading websites",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.investing.com/economic-calendar/"
+      ],
+      "css": [
+        "investing.com/style.css"
+      ]
+    },
+    {
+      "matches": [
+        "https://coinmarketcap.com/*"
+      ],
+      "css": [
+        "coinmarketcap.com/style.css"
+      ]
+    }
+  ]
+}

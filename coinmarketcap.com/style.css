@@ -1,0 +1,30 @@
+#header-banner-wrapper, div[id^="div-gpt-ad"],
+#leaderboard,
+.global-stats-list>li:first-child, .global-stats-list>li:nth-child(2),
+footer {
+    display: none !important;
+}
+
+.bottom-margin-1x {
+    margin-bottom: 0px !important;
+}
+
+.sitenav-block {
+    padding: 0 !important;
+}
+
+.main-section .col-lg-10 {
+    padding-top: 0px !important;
+}
+
+#currencies_wrapper table td {
+    padding: 0px !important;
+}
+
+.currency-name-container {
+    font-size: 15px !important;
+}
+
+.circulating-supply .hidden-xs {
+    font-weight: bold;
+}
