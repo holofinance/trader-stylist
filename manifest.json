@@ -3,6 +3,11 @@
   "name": "Trader Stylist",
   "version": "0.1.0",
   "description": "Cleans the UI of famous trading websites",
+  "icons": {
+    "16": "assets/icons8-clean-16.png",
+    "48": "assets/icons8-clean-48.png",
+    "128": "assets/icons8-clean-128.png"
+  },
   "content_scripts": [
     {
       "matches": [

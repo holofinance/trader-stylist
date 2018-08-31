@@ -1,11 +1,14 @@
 # Trader Stylist
 
-Simplify your most commonly used trading and investing websites.
+Simplify your trading and investing websites.
 
 Currently supported websites:
 * investing.com/economic-calendar
 * coinmarketcap.com
 
+## Examples
+
+![Investing.com Before and After](assets/investingcom-before-after.png)
 
 ## Why
 
