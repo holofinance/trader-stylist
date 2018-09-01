@@ -12,6 +12,11 @@ Currently supported websites:
 
 ![Coinmarketcap.com Before and After](assets/coinmarketcap-before-after.png)
 
+## Install
+
+For Chrome/Chromium users:
+* [Install Trader Stylist from the Chrome Webstorm](https://chrome.google.com/webstore/detail/trader-stylist/bohfeiboloihabanfodconoddbekccbl)
+
 
 ## Why
 
@@ -45,5 +50,4 @@ If you want to simplify the UI of a new website, please:
 
 ## TODOs
 
-* [ ] Publish to chrome extensions
 * [ ] Create similar Firefox extension
