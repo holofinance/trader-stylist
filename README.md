@@ -15,7 +15,7 @@ Currently supported websites:
 ## Install
 
 For Chrome/Chromium users:
-* [Install Trader Stylist from the Chrome Webstorm](https://chrome.google.com/webstore/detail/trader-stylist/bohfeiboloihabanfodconoddbekccbl)
+* [Install Trader Stylist from the Chrome Webstore](https://chrome.google.com/webstore/detail/trader-stylist/bohfeiboloihabanfodconoddbekccbl)
 
 
 ## Why
