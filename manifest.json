@@ -15,6 +15,10 @@
       ],
       "css": [
         "investing.com/style.css"
+      ],
+      "js": [
+        "vendor/jquery-3.3.1.min.js",
+        "investing.com/contentScript.js"
       ]
     },
     {

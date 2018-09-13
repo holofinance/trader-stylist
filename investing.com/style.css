@@ -14,6 +14,6 @@ div[id^="div-gpt-ad"], #ecoCalTabsMenu, .js-notification-bar,
     margin-top: -60px !important;
 }
 
-a[href ^= "/economic-calendar/nonfarm-payrolls"] {
-    font-weight: bold !important;
+.importantEvent {
+    background-color: #ffff004d !important;
 }
