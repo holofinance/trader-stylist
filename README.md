@@ -1,21 +1,23 @@
 # Trader Stylist
 
-Simplify your trading and investing websites.
+Simplify the UI of your trading and investing websites.
 
 Currently supported websites:
 * [investing.com/economic-calendar](https://investing.com/economic-calendar/)
 * [coinmarketcap.com](https://coinmarketcap.com)
+
+## Install
+
+Install the extension from:
+
+* [Chrome Webstore](https://chrome.google.com/webstore/detail/trader-stylist/bohfeiboloihabanfodconoddbekccbl)
+* [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/trader-stylist/)
 
 ## Examples
 
 ![Investing.com Before and After](assets/investingcom-before-after.png)
 
 ![Coinmarketcap.com Before and After](assets/coinmarketcap-before-after.png)
-
-## Install
-
-For Chrome/Chromium users:
-* [Install Trader Stylist from the Chrome Webstore](https://chrome.google.com/webstore/detail/trader-stylist/bohfeiboloihabanfodconoddbekccbl)
 
 
 ## Why
@@ -35,8 +37,8 @@ Please:
     * suggest new websites or features
     * report bugs
 * use Github pull request to:
-    * improve the code (with explanation)
     * add new websites
+    * improve the code (with explanation)
     * help with the TODOs below
 
 ## How to add a new website
@@ -50,4 +52,13 @@ If you want to simplify the UI of a new website, please:
 
 ## TODOs
 
-* [ ] Create similar Firefox extension
+* [ ] Highlight major news events: Interest Rate, GDP, CPI, Unemployment Rate, FOMC
+* [ ] Add other relevant trading and investing websites.
+
+## History
+
+Read the [version history](History.md).
+
+## License
+
+[MIT](README.md)
