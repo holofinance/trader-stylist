@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "name": "Trader Stylist",
-  "version": "0.1.0",
-  "description": "Cleans the UI of famous trading websites",
+  "version": "0.2.0",
+  "description": "Simplify the UI of your trading and investing websites",
   "icons": {
     "16": "assets/icons8-clean-16.png",
     "48": "assets/icons8-clean-48.png",
