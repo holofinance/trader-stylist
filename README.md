@@ -61,4 +61,4 @@ Read the [version history](History.md).
 
 ## License
 
-[MIT](README.md)
+[MIT](LICENSE)
